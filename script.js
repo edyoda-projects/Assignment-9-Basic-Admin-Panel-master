@@ -1,0 +1,1 @@
+var url = 'https://admin-panel-data-edyoda-sourav.herokuapp.com/admin/data';
